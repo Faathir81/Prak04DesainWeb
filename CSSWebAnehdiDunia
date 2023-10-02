@@ -1,0 +1,104 @@
+
+h1{
+    background-color: chocolate;
+}
+.navmenu-content{
+    position: absolute;
+}
+body{
+    background-color: bisque;
+    box-sizing: border-box;
+}
+#Unik{
+    text-align: center;
+}
+.Hewan{
+    width: 500px;
+    height: 500px;
+    background-color: yellowgreen;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 50px;
+    border: 5px dotted black;
+}
+.Peristiwa{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: darkgrey;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 50px;
+    border: 5px dashed black;
+}
+.Benda{
+    width: 500px;
+    height: 500px;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 50px;
+    border: 5px dashed black;
+}
+.Negara{
+    width: 500px;
+    height: 500px;
+    background-color: darkolivegreen;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 50px;
+    border: 5px dashed black;
+}
+.Nyawa{
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 50px;
+    border: 5px double black;
+}
+.Kasus{
+    width: 500px;
+    height: 500px;
+    background-color: azure;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 50px;
+    border: 5px dashed black;
+}
+.Wilayah{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 50px;
+    border: 5px double black;
+}
+ul li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Kapibara:hover{
+    color: rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+ul li a{
+    color: darkcyan;
+}
+ul li a:active{
+    font-style: italic;
+}
+.Capy1{
+    color: darkgoldenrod;
+}
+footer{
+    position: relative;
+    bottom: 70px;
+    margin: 10px;
+    padding-top: 50px;
+    width: 500px;
+    background-color: burlywood;
+    border: 2px solid black;
+}
